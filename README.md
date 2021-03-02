@@ -1,16 +1,21 @@
-### Hi there 👋
+<div align="center">
+  <p>
 
-<!--
-**icodingc/icodingc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://github.com/icodingc">
 
-Here are some ideas to get you started:
+  <img src="https://github-readme-stats.vercel.app/api?username=icodingc&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,issues" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </a>
+
+  </p>
+
+<a href="https://github.com/shenweichen/AlgoNotes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=icodingc&repo=ImageRetrieval-tf&cache_seconds=18000&theme=radical" />
+</a>
+
+<a href="https://github.com/shenweichen/GraphEmbedding">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=icodingc&repo=mndm-IR&cache_seconds=18000&theme=radical" />
+</a>
+
+ 
+</div>
