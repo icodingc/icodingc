@@ -9,13 +9,5 @@
 
   </p>
 
-<a href="https://github.com/shenweichen/AlgoNotes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=icodingc&repo=ImageRetrieval-tf&cache_seconds=18000&theme=radical" />
-</a>
-
-<a href="https://github.com/shenweichen/GraphEmbedding">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=icodingc&repo=mndm-IR&cache_seconds=18000&theme=radical" />
-</a>
-
  
 </div>
